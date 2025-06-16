@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+*{
+    font-family: Gilroy;
+}
+
+::selection{
+    color: hsl(160, 89%, 65%);
+}
+
+:hover{
+    color:  hsl(160, 89%, 65%);
+}
