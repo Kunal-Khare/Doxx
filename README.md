@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 # Doxx
+=======
+<<<<<<< HEAD
+=======
+# Doxx
+>>>>>>> 1f30070 (some-Bg)
+>>>>>>> 3673020 (some-Bg)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
